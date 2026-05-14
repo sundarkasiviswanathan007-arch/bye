@@ -1,10 +1,10 @@
-https://github.com/sundarkasiviswanathan007-arch/bye/blob/8830436236a6fa34fa5a37e59527143b972f6e5b/templatemo-about-artist.jpg
-https://github.com/sundarkasiviswanathan007-arch/bye/blob/b0cc6af879543638024f287e3aaf636e8860721e/templatemo-amber-folio-01.jpg
-https://github.com/sundarkasiviswanathan007-arch/bye/blob/909f6d65227c09730191b762f0bb77f37cd9c1b9/templatemo-amber-folio-02.jpg
-https://github.com/sundarkasiviswanathan007-arch/bye/blob/f23e003cf4c4ab3eac00774fc30d2e553f2884bb/templatemo-amber-folio-03.jpg
-https://github.com/sundarkasiviswanathan007-arch/bye/blob/06d8998c2d4344df1b7298fbae1c677e06366b9a/templatemo-amber-folio-04.jpg
-https://github.com/sundarkasiviswanathan007-arch/bye/blob/d30881b9052344b976b38ee306442a21364014b2/templatemo-amber-folio-05.jpg
-https://github.com/sundarkasiviswanathan007-arch/bye/blob/9abe7dd2777f5a21a70299f5fbc8e48984673007/templatemo-amber-folio-06.jpg
-https://github.com/sundarkasiviswanathan007-arch/bye/blob/00dce8884ff77ea383c6bc2b93097aafc9869a84/templatemo-amber-folio-07.jpg
-https://github.com/sundarkasiviswanathan007-arch/bye/blob/3bfcb5d0402ec19203f945614d0cad7be60263e5/templatemo-amber-folio-08.jpg
-https://github.com/sundarkasiviswanathan007-arch/bye/blob/cc7546debb0db6976fff4d8abc8c302d4fc95629/templatemo-amber-folio-09.jpg
+![image alt](https://github.com/sundarkasiviswanathan007-arch/bye/blob/8830436236a6fa34fa5a37e59527143b972f6e5b/templatemo-about-artist.jpg?raw=true)
+![image alt](https://github.com/sundarkasiviswanathan007-arch/bye/blob/b0cc6af879543638024f287e3aaf636e8860721e/templatemo-amber-folio-01.jpg?raw=true)
+![image alt](https://github.com/sundarkasiviswanathan007-arch/bye/blob/909f6d65227c09730191b762f0bb77f37cd9c1b9/templatemo-amber-folio-02.jpg?raw=true)
+![image alt](https://github.com/sundarkasiviswanathan007-arch/bye/blob/f23e003cf4c4ab3eac00774fc30d2e553f2884bb/templatemo-amber-folio-03.jpg?raw=true)
+![image alt](https://github.com/sundarkasiviswanathan007-arch/bye/blob/06d8998c2d4344df1b7298fbae1c677e06366b9a/templatemo-amber-folio-04.jpg?raw=true)
+![image alt](https://github.com/sundarkasiviswanathan007-arch/bye/blob/d30881b9052344b976b38ee306442a21364014b2/templatemo-amber-folio-05.jpg?raw=true)
+![image alt](https://github.com/sundarkasiviswanathan007-arch/bye/blob/9abe7dd2777f5a21a70299f5fbc8e48984673007/templatemo-amber-folio-06.jpg?raw=true)
+![image alt](https://github.com/sundarkasiviswanathan007-arch/bye/blob/00dce8884ff77ea383c6bc2b93097aafc9869a84/templatemo-amber-folio-07.jpg?raw=true)
+![image alt](https://github.com/sundarkasiviswanathan007-arch/bye/blob/3bfcb5d0402ec19203f945614d0cad7be60263e5/templatemo-amber-folio-08.jpg?raw=true)
+![image alt](https://github.com/sundarkasiviswanathan007-arch/bye/blob/cc7546debb0db6976fff4d8abc8c302d4fc95629/templatemo-amber-folio-09.jpg?raw=true)
