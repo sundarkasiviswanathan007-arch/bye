@@ -6,3 +6,4 @@ https://github.com/sundarkasiviswanathan007-arch/bye/blob/06d8998c2d4344df1b7298
 https://github.com/sundarkasiviswanathan007-arch/bye/blob/d30881b9052344b976b38ee306442a21364014b2/templatemo-amber-folio-05.jpg
 https://github.com/sundarkasiviswanathan007-arch/bye/blob/9abe7dd2777f5a21a70299f5fbc8e48984673007/templatemo-amber-folio-06.jpg
 https://github.com/sundarkasiviswanathan007-arch/bye/blob/00dce8884ff77ea383c6bc2b93097aafc9869a84/templatemo-amber-folio-07.jpg
+https://github.com/sundarkasiviswanathan007-arch/bye/blob/3bfcb5d0402ec19203f945614d0cad7be60263e5/templatemo-amber-folio-08.jpg
