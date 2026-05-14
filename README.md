@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/sundarkasiviswanathan007-arch/bye/refs/heads/main/templatemo-about-artist.jpg
+![image alt](https://raw.githubusercontent.com/sundarkasiviswanathan007-arch/bye/refs/heads/main/templatemo-about-artist.jpg)
